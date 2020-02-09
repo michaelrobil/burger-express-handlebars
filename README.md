@@ -4,6 +4,7 @@
 This web application is intended as a tool for burger's lovers who want to save their burgers list with two options. 
 
 ## Application Screenshot
+![08-Burger](https://user-images.githubusercontent.com/56613553/74096614-b2aec680-4ac6-11ea-9561-b6ac1550166b.png)
 
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
