@@ -1,4 +1,4 @@
-# burger-express-handlebars
+# Burger-Express-Handlebars
 
 ## About
 This web application is intended as a tool for burger's lovers who want to save their burgers list with two options. 
