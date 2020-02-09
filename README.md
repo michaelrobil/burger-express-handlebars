@@ -3,6 +3,8 @@
 ## About
 This web application is intended as a tool for burger's lovers who want to save their burgers list with two options. 
 
+## Application Screenshot
+
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
 
